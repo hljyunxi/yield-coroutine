@@ -1,4 +1,4 @@
 yield-coroutine
 ===============
 
-python yield based coroutine
+mini yield based coroutine copy from tornado
